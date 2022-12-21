@@ -189,7 +189,7 @@ flowchart LR
     A[Goverment] -- subsidizes --> D["Carceral facilities <br> (prisons, hospitals, nursing homes)"]
     C[Workers] -- donate --> D
     subgraph "#quot;Extraction#quot;"
-    B[Capitalists] --  donate --> D
+    B[Capitalist] --  donate --> D
     D -- Suppress wages --> E[Profit]
     D -- Cheaply furnish --> E
     E -- dividends --> B
@@ -200,5 +200,50 @@ flowchart LR
 
 # What is Waste?
 
+Popular eugenic narratives depict the surplus population as "wasting resources".
 
+---
 
+<!--
+_header: 'What is Waste?'
+-->
+
+The popularized myth of "waste".
+
+```mermaid[eugenic waste fallacy]
+%%{init: {'theme': 'dark'} }%%
+flowchart LR
+    A[Capitalist] -- pays --> B[Worker]
+    A -- donates --> D
+    subgraph "#quot;Waste#quot;"
+    B -- taxed by --> C[Government]
+    B -- pays for --> D[Carceral facilities]
+    C -- pays for --> D
+    B -- donates --> D
+    end
+```
+
+---
+
+<!--
+_header: 'What is Waste?'
+-->
+
+Waste is actually in the bureaucratic system that judges who is surplus and unnecessarily expands carceral care.
+
+```mermaid[bureaucrat waste]
+%%{init: {'theme': 'dark'} }%%
+flowchart LR
+    subgraph Waste
+    C[Government] -- pays --> D[Bureaucrat]
+    D -- categorizes --> E[Person]
+    E -- deems unfit to work --> G[Surplus]
+    G -- continual reassessment --> D
+    G -- forces into --> H[Carceral facility]
+    H -- profits --> A
+    end
+    A[Capitalist] -- pays --> B[Worker]
+    E -- deemed fit to work --> B
+```
+
+---
