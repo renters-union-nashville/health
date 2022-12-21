@@ -1,14 +1,14 @@
 # Nashville Tenant Union - Health Module
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/yhatt/marp-cli-example)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/nashville-tenants-union/health)
 
 ## See published slide deck
 
-- <img src="https://icongr.am/octicons/mark-github.svg" width="24" height="24" valign="bottom" /> **[GitHub Pages]**: https://yhatt.github.io/marp-cli-example
+- <img src="https://icongr.am/octicons/mark-github.svg" width="24" height="24" valign="bottom" /> **[GitHub Pages]**: https://nashville-tenants-union.github.io/health
 
 ## How to write
 
-For Marp slide deck features, please see the documentation of [Marpit Markdown](https://marpit.marp.app/markdown), [the features of Marp Core](https://github.com/marp-team/marp-core#features), and the default example in [`PITCHME.md`](https://raw.githubusercontent.com/yhatt/marp-cli-example/master/PITCHME.md) for .
+For Marp slide deck features, please see the documentation of [Marpit Markdown](https://marpit.marp.app/markdown), [the features of Marp Core](https://github.com/marp-team/marp-core#features), and the default example in [`PITCHME.md`](https://raw.githubusercontent.com/nashville-tenants-union/health/main/PITCHME.md) for .
 
 You have to install [Node.js](https://nodejs.org/) and run `npm i` at first if you want to write slide deck with [Marp CLI].
 
@@ -22,11 +22,11 @@ Just edit **[`PITCHME.md`](./PITCHME.md)**!
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode">
-    <img src="https://raw.githubusercontent.com/marp-team/marp-vscode/master/docs/screenshot.png" width="500" />
+    <img src="https://raw.githubusercontent.com/marp-team/marp-vscode/main/docs/screenshot.png" width="500" />
   </a>
 </p>
 
-**You can try edit and preview on the web now!** Open https://github.dev/yhatt/marp-cli-example/blob/master/PITCHME.md or hit <kbd>.</kbd> key on this repository, and install [Marp for VS Code] extension.
+**You can try edit and preview on the web now!** Open https://github.dev/nashville-tenants-union/health/blob/main/PITCHME.md or hit <kbd>.</kbd> key on this repository, and install [Marp for VS Code] extension.
 
 [marp for vs code]: https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode
 
