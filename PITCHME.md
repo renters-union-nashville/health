@@ -2,12 +2,10 @@
 marp: true
 title: Health of the Union
 description: Debunking the eugenics that divide us.
-theme: uncover
-paginate: true
+theme: clinical
+paginate: false
 _paginate: false
 ---
-
-![bg](./assets/gradient.jpg)
 
 Nashville Tenant Union's
 
@@ -22,9 +20,9 @@ Debunking the eugenics that divide us.
 # Our Sources
 
 1. Health Communism
-    * Beatrice Adler-Bolton & Artie Verkant
+    - Beatrice Adler-Bolton & Artie Verkant
 2. Mutual Aid
-    * Dean Spade
+    - Dean Spade
 
 ---
 
@@ -114,7 +112,9 @@ A population that falls outside of normative social and economic State policies.
 
 ---
 
-# What is Surplus?
+<!--
+_header: 'What is Surplus?'
+-->
 
 * Cannot be rigidly defined 
     * policies change over time
@@ -122,7 +122,9 @@ A population that falls outside of normative social and economic State policies.
 
 ---
 
-# What is Surplus?
+<!--
+_header: 'What is Surplus?'
+-->
 
 * Threat to capital
     * Removing this division builds solidarity

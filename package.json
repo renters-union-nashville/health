@@ -1,7 +1,7 @@
 {
-  "name": "marp-cli-example",
+  "name": "health",
   "version": "0.0.0",
-  "author": "Yuki Hattori <yukihattori1116@gmail.com>",
+  "author": "Nashville Tenants Union <contact@nashvilletenantsunion.org>",
   "license": "WTFPL",
   "private": true,
   "scripts": {

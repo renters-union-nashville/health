@@ -1,0 +1,27 @@
+/* @theme clinical */
+
+@import 'uncover';
+
+section {
+  background: #1326A9;
+  color: #FFFFFF;
+  font-size: 40px;
+}
+
+header,
+footer {
+  position: absolute;
+  left: 50px;
+  right: 50px;
+  height: 20px;
+  font-size: 50px;
+  color: #FFFFFF;
+}
+
+header {
+  top: 30px;
+}
+
+footer {
+  bottom: 30px;
+}
