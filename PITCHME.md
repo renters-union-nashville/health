@@ -51,20 +51,20 @@ Debunking the eugenics that divide us.
 
 # Labor
 
-* Surplus populations were separated from labor based on relation to capital
+* Surplus populations are separated from labor based on relation to capital
 
 ---
 
 # Madness
 
-* The asylum system formally separated surplus from the working class, and eventually preyed upon for extraction
+* The asylum system separates surplus from the working class
+* Preyed upon by capital for extraction
 
 ---
 
 # Pharmacology
 
 * The pharmaceutical industry has been used to create imperialist trade policies
-
 * Resistance through organizing
     * ACT UP
     * Treatment Action Group (TAG)
