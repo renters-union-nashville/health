@@ -190,9 +190,11 @@ flowchart LR
     C[Workers] -- donate --> D
     subgraph "#quot;Extraction#quot;"
     B[Capitalist] --  donate --> D
-    D -- Suppress wages --> E[Profit]
-    D -- Cheaply furnish --> E
-    E -- dividends --> B
+    D -- suppress wages --> E[Care]
+    D -- cheaply furnish --> E
+    D -- understaff --> E
+    E -- keeps sick --> F[Surplus]
+    E -- unspent profits --> B
     end
 ```
 
