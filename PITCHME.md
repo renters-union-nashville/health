@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Health of the Union
+description: Debunking the eugenics that divide us.
 theme: uncover
 paginate: true
 _paginate: false
@@ -9,67 +9,137 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+Nashville Tenant Union's
 
-Hosting Marp slide deck on the web
+# <!--fit--> Health of the Union
 
-https://github.com/yhatt/marp-cli-example
+Debunking the eugenics that divide us.
 
-<style scoped>a { color: #eee; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+(Work in Progress)
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+# Our Sources
+
+1. Health Communism
+    * Beatrice Adler-Bolton & Artie Verkant
+2. Mutual Aid
+    * Dean Spade
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+# Health Communism
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+* What are the problems of public health under capitalism?
+* What are the solutions?
+* How does health factor into revolution?
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+# Surplus
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+* Populations marked for “extractive abandonment”
+* Made profitable for capital
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+# Waste
 
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+* Intentional waste of resources in order to argue that surplus populations are a societal burden
+  * Eugenic burden
+  * Debt burden
 
 ---
 
-### <!--fit--> :ok_hand:
+# Labor
+
+* Surplus populations were separated from labor based on relation to capital
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# Madness
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+* The asylum system formally separated surplus from the working class, and eventually preyed upon for extraction
 
-https://github.com/yhatt/marp-cli-example
+---
+
+# Pharmacology
+
+* The pharmaceutical industry has been used to create imperialist trade policies
+
+* Resistance through organizing
+    * ACT UP
+    * Treatment Action Group (TAG)
+
+---
+
+# Border
+
+* Imperial core develops private health industries
+    * Periphery is forced to privatize their national healthcare solutions
+
+---
+
+# Care
+
+* SPK (Sozialistisches Patientenkollektiv) was formed to offer an alternative to the capitalist West German state.
+    * radical patients' group in the 1970s
+
+---
+
+# Cure
+
+* SPK was demonized by those in power to prevent their influence and erase their history
+
+---
+
+# Host
+
+* Capitalism can only be defeated by a movement that centers surplus populations
+    * Eugenic and debt ideologies must be resisted
+
+---
+
+# Deep Dive #1
+
+## Separation and Myths
+
+Surplus populations and the concept of "waste"
+
+---
+
+# What is Surplus?
+
+A population that falls outside of normative social and economic State policies.
+
+---
+
+# What is Surplus?
+
+* Cannot be rigidly defined 
+    * policies change over time
+    * varies based on political geography
+
+---
+
+# What is Surplus?
+
+* Threat to capital
+    * Removing this division builds solidarity
+        * Increases union power
+    * Reduce profits (a.k.a. stolen wages)
+        * The profits are artificially high due to the creation of a surplus population
+
+---
+
+# Treatment of Surplus
+
+* "Organized Abandonment"
+    * deliberate manipulation and dispossession of resources from Black, Brown, Indigenous, disabled, and poor communities
+    * more vulnerable to adverse health
+    * social value is considered "as good as dead"
+        * popularly considered "waste"
+
+---
+
+# What is Waste?
