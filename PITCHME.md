@@ -44,11 +44,11 @@ Debunking the eugenics that divide us.
 ```mermaid[diagram of surplus relationship]
 %%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
 flowchart LR
-    A[Start] --> B{Does my body reduce my work productivity?}
-    B -- Yes --> C{Can I afford care to reclaim said productivity?}
-    C -- Yes --> E[Worker]
-    C -- No --> D[Surplus]
-    B -- No ----> E[Worker]
+    A{Does my body reduce my productivity at work?}
+    A -- Yes --> B{Can I afford care to reclaim said productivity?}
+    B -- Yes --> D[Worker]
+    B -- No --> E[Surplus]
+    A -- No ----> D[Worker]
 ```
 
 ---
@@ -148,17 +148,57 @@ _header: 'What is Surplus?'
 
 # Treatment of Surplus
 
-* "Organized Abandonment"
-    * deliberate manipulation and dispossession of resources from Black, Brown, Indigenous, disabled, and poor communities
-    * more vulnerable to adverse health
-    * social value is considered "as good as dead"
-        * popularly considered "waste"
+"Organized Abandonment"
+
+* deliberate manipulation and dispossession of resources from Black, Brown, Indigenous, disabled, and poor communities
+* more vulnerable to adverse health
+* social value is considered "as good as dead"
+    * popularly considered "waste"
+
+<!-- Ruth Wilson Gilmore coined this phrase. -->
+
+---
+
+<!--
+_header: 'Treatment of Surplus'
+-->
+
+"Extraction"
+
+> Surplus populations are spun into gold. Disability is commodified through [a] matrix of incarceration (prisons, hospitals, nursing homes).
+
+~ Jasbir Puar
+
+---
+
+<!--
+_header: 'Treatment of Surplus'
+-->
+
+Our society funds a carceral care system that primarily benefits capitalists.
+
+---
+
+<!--
+_header: 'Treatment of Surplus'
+-->
+
+```mermaid[extraction process]
+%%{init: {'theme': 'dark'} }%%
+flowchart LR
+    A[Goverment] -- subsidizes --> D["Carceral facilities <br> (prisons, hospitals, nursing homes)"]
+    C[Workers] -- donate --> D
+    subgraph "#quot;Extraction#quot;"
+    B[Capitalists] --  donate --> D
+    D -- Suppress wages --> E[Profit]
+    D -- Cheaply furnish --> E
+    E -- dividends --> B
+    end
+```
 
 ---
 
 # What is Waste?
 
-```mermaid[mermaid image]
-flowchart TD
-    Start --> Stop
-```
+
+
