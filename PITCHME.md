@@ -231,7 +231,7 @@ flowchart LR
 _header: 'What is Waste?'
 -->
 
-Waste is actually in the bureaucratic system that judges who is surplus and unnecessarily expands carceral care.
+Instead, Waste is found the bureaucratic system that judges who is surplus and predatorily expands carceral care.
 
 ```mermaid[bureaucrat waste]
 %%{init: {'theme': 'dark'} }%%
