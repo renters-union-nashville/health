@@ -41,6 +41,18 @@ Debunking the eugenics that divide us.
 
 ---
 
+```mermaid[diagram of surplus relationship]
+%%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
+flowchart LR
+    A[Start] --> B{Does my body reduce my work productivity?}
+    B -- Yes --> C{Can I afford care to reclaim said productivity?}
+    C -- Yes --> E[Worker]
+    C -- No --> D[Surplus]
+    B -- No ----> E[Worker]
+```
+
+---
+
 # Waste
 
 * Intentional waste of resources in order to argue that surplus populations are a societal burden
@@ -145,3 +157,8 @@ _header: 'What is Surplus?'
 ---
 
 # What is Waste?
+
+```mermaid[mermaid image]
+flowchart TD
+    Start --> Stop
+```

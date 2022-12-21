@@ -12,4 +12,7 @@ module.exports = {
   ogImage,
   themeSet: 'themes',
   url: canonicalUrl,
+  engine: ({ marp }) => marp.use(require('@kazumatu981/markdown-it-kroki'), {
+      entrypoint: "https://kroki.io",
+  })
 }
